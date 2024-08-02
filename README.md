@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Martin</h1>
 <h3 align="center">Me rn...</h3>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="500" align="center">
+<img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240802T164648Z&X-Amz-Expires=300&X-Amz-Signature=b74a5a51f2a67783b45d0b1acfef5990c57926f7375ee151493fde6d4a6919e3&X-Amz-SignedHeaders=host&actor_id=177253186&key_id=0&repo_id=588181932)" width="500">
 <br><br>
 - 📫 How to reach me **adanielmartin39@gmail.com**
 
 - ⚡ Fun fact **I like to Play Card Games**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
