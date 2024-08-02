@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Martin</h1>
 <h3 align="center">Me rn...</h3>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459">
 <br><br>
 - 📫 How to reach me **adanielmartin39@gmail.com**
 
