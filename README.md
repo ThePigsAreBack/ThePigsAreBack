@@ -3,7 +3,9 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="500" align="center">
 <br><br>
 - 📫 How to reach me **adanielmartin39@gmail.com**
+
 - ⚡ Fun fact **I like to Play Card Games**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
