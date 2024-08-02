@@ -7,7 +7,7 @@
 - 📫 How to reach me **adanielmartin39@gmail.com**
 
 - ⚡ Things I like:
-  -  **Card Games**
+  -  **Card Games(mtg)**
   -  **Video Games**
   -  **Coffee**
   -  **Computers**
